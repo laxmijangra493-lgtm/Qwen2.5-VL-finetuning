@@ -1,3 +1,6 @@
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/b5583bdf-2b62-4db6-bea2-48c27b07ec64" />
+
+
 # Handwritten Document Transcription with Qwen2.5-VL-3B (4-Bit QLoRA)
 
 Fine-tuning **Qwen2.5-VL-3B-Instruct** using **4-bit QLoRA** on the [`radhakrishnadeshpande/gnhk-pagelevel`](https://huggingface.co/datasets/radhakrishnadeshpande/gnhk-pagelevel) dataset to transcribe handwritten notebook pages into clean, structured text on a single 15 GB NVIDIA T4 GPU (Google Colab).
