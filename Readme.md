@@ -19,14 +19,6 @@ This repository provides a memory-safe training and inference workflow designed 
 
 ---
 
-## Project Architecture
-
-```text
-├── train.py / notebook.ipynb     # Lazy dataset, collator, and 4-bit QLoRA training loop
-├── inference.py                  # Adapter loading and test-page transcription
-└── qwen2_5_vl_3b_gnhk_lora/      # Saved LoRA adapter weights & processor config
-```
-
 ### Training Configratutions
 ```
 Base Model : *Qwen 2.5-VL*
